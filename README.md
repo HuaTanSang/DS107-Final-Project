@@ -1,3 +1,3 @@
 # DS107 - Computational Thinking Final Project  
-In this project, our team going to build a source code base on a paper named 'Differentially Private Simple Linear Regression'.  
-A demo is shown in the demo.py, for hardware limitation we going to build a prediction on a generated dataset decribed in demo.py.
+In this project, our team will implement a source code based on the paper "Differentially Private Simple Linear Regression." The objective is to explore the application of differential privacy within simple linear regression models. We have provided an initial demonstration in demo.py. Due to hardware limitations, we will focus on building and evaluating our predictions using a generated dataset, as outlined in the demo. This approach allows us to effectively test and validate the privacy-preserving properties of our model while ensuring computational efficiency.
+
